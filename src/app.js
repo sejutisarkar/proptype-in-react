@@ -20,4 +20,4 @@ Title.propType={
 
 
 
-ReactDom.render(<App txt="this is a value"/>,document.getElementById("app"))
+ReactDom.render(<App />,document.getElementById("app"))
