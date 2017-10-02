@@ -22,6 +22,7 @@ console.log("sejuti")
     >
       <Grid.Column style={{ maxWidth: 450 }}>
 
+<<<<<<< HEAD
         <Header as='h2' color='blue' textAlign='center'>
           Log-in to your account
         </Header>
@@ -70,3 +71,7 @@ console.log("sejuti")
 )
  ReactDOM.render(<LoginForm />,document.getElementById("root"))
  export default LoginForm
+=======
+
+ReactDom.render(<App />,document.getElementById("app"))
+>>>>>>> 5ad95b56657350a547a8451e179acf9935595cc6
