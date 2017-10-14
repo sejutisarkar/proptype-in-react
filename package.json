@@ -24,6 +24,7 @@
     "babel-preset-react": "^6.24.1",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
+    "semantic-ui": "^2.2.13",
     "semantic-ui-react": "^0.74.2",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.8.2"
